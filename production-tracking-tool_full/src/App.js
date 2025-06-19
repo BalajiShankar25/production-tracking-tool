@@ -1,0 +1,1 @@
+<paste full working React component here>
